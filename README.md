@@ -12,6 +12,9 @@ More info:
 Profile
 [https://linkedin](https://www.linkedin.com/in/aionlabs/)
 
+Blog
+[https://aionlabs.top](https://aionlabs.top/)
+
 <!--
 **lhg96/lhg96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
