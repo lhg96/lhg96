@@ -9,10 +9,10 @@ More info:
 [https://okkorea.net ](https://okkorea.net)  
 [https://github.com/lhg96](https://github.com/lhg96)  
 
-Profile
-[https://linkedin](https://www.linkedin.com/in/aionlabs/)
+Profile:  
+[https://www.linkedin.com/in/aionlabs/](https://www.linkedin.com/in/aionlabs/)
 
-Blog
+Blog:  
 [https://aionlabs.top](https://aionlabs.top/)
 
 <!--
